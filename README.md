@@ -1,1 +1,1 @@
-file to bash project
+this is my first repository
